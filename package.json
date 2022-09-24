@@ -1,0 +1,14 @@
+{
+  "name": "cadastrador-de-cpf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paula Flávia",
+  "license": "ISC",
+  "description": "Projeto para salvar cpfs válidos em um arquivo",
+  "dependencies": {
+    "validador-de-cpf": "^1.0.2"
+  }
+}
